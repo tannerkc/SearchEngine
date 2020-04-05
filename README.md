@@ -5,4 +5,7 @@ page and so on, storing each link in a database, along with the pade description
 The PHP script searches through every description, keyword and title to find everything in relation to your search term. After you click a link 
 the database updates a click count and the search results are sorted by click count. <br><br>
 Hovering a link shows a "peak" into the site to save time.
+The search engine also contains a calculator and fedex tracker.
+
+disclosure: the basis for this project was formed from a tutorial but the overall code and features are mine as I only briefly scimmed the tutorial for an idea of where to start.
 
