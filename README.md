@@ -7,5 +7,5 @@ the database updates a click count and the search results are sorted by click co
 Hovering a link shows a "peak" into the site to save time.
 The search engine also contains a calculator and fedex tracker.
 
-disclosure: the basis for this project was formed from a tutorial but the overall code and features are mine as I only briefly scimmed the tutorial for an idea of where to start.
+disclosure: the basis for this project was formed from a tutorial. The basic functionality and the crawler were inspired by the tutorial but the added functions such as calculator, fedex tracker and link preview are entirely mine.
 
