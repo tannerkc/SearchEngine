@@ -7,3 +7,5 @@ The PHP script searches through every description, keyword and title to find eve
 the database updates a click count and the search results are sorted by click count. <br><br>
 Hovering a link shows a "peak" into the site to save time.
 </p>
+
+<small>The basis of this project was based on a tutorial but the project as a whole was created myself</small>
