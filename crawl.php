@@ -60,7 +60,7 @@ function insertImage($url, $src, $alt, $title) {
 function createLink($src, $url) {
 
 	$scheme = parse_url($url)["scheme"]; // http
-	$host = parse_url($url)["host"]; // www.reecekenney.com
+	$host = parse_url($url)["host"]; // www.tannercottle.com
 	
 	if(substr($src, 0, 2) == "//") {
 		$src =  $scheme . ":" . $src;
